@@ -1,0 +1,59 @@
+/* responstive */
+@media only screen and (max-width: 1000px) {
+  html {
+    font-size: 97%;
+  }
+}
+@media only screen and (max-width: 896px) {
+  html {
+    font-size: 95%;
+  }
+  .col-md-6 {
+    width: 100%;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 90%;
+  }
+  .col-md-4 {
+    width: 100%;
+    padding: 0 9rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  .col-lg-3 {
+    width: 100%;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 700px) {
+  html {
+    font-size: 87%;
+  }
+}
+@media only screen and (max-width: 640px) {
+  html {
+    font-size: 85%;
+  }
+  .col-md-4 {
+    padding: 0 7rem;
+  }
+}
+@media only screen and (max-width: 414px) {
+  html {
+    font-size: 83%;
+  }
+  .col-md-4 {
+    padding: 0 6rem;
+  }
+}
+@media only screen and (max-width: 380px) {
+  html {
+    font-size: 83%;
+  }
+  .col-md-4 {
+    padding: 0 5rem;
+  }
+}

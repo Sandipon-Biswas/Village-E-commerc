@@ -1,0 +1,31 @@
+.bg-1 {
+  background-color: #e6e6e6;
+}
+.nav-bg {
+  background-color: #1159ce;
+}
+/* .btn-top-s-1:hover {
+  background-color: white;
+  color: black;
+  transition: 0.5s;
+} */
+img {
+  max-width: 100%;
+}
+.section-3 {
+  background-color: #081b30;
+}
+img.img-s-5-border {
+  border: 10px solid white;
+}
+.s-9-bg {
+  background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEj8LpfEGSd3OVUEO5saatv_NE7MOfr0xoZTc6U1GfeeBfGLJugGXipSvpNbIsNfQaCnltwtV0TyMUIZpK1HRmEKHvj5ZD73IIvc5AWQ80OvRiU7wAJ4bUjyX9rIdmSuzJOtug7vPbrAYLqrV5qqQUyyJgbm9BvnbGw1Ne7W-zAeoSUqs6lK1XDJqg=s667);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+html {
+  padding: 0 auto;
+}
+.footer-text {
+  margin-bottom: 0 !important;
+}
